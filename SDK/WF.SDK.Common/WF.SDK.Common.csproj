@@ -89,7 +89,9 @@
     <Compile Include="WFDateTime.cs" />
     <Compile Include="wwHttp.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="WF.SDK.Common.nuspec" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>

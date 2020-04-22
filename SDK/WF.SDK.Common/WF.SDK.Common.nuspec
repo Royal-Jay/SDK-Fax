@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>WestFax</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/Royal-Jay/SDK-Fax</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WestFax SDK common library for fax send and receive.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright></copyright>
+    <tags></tags>
+  </metadata>
+</package>
